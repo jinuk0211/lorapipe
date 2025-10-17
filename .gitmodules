@@ -1,9 +1,6 @@
 [submodule "submodules/HunyuanVideo"]
 	path = submodules/HunyuanVideo
 	url = https://github.com/Tencent/HunyuanVideo
-[submodule "submodules/flow"]
-	path = submodules/flow
-	url = https://github.com/lodestone-rock/flow
 [submodule "submodules/HiDream"]
 	path = submodules/HiDream
 	url = https://github.com/HiDream-ai/HiDream-I1
